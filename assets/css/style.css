@@ -1,0 +1,69 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-expand-lg {
+    background: #28A745;
+}
+
+.navbar-brand {
+    background-color: #28A745;
+}
+
+.card-title {
+    font-weight: 300;
+    color: #212529;
+}
+
+.card-text {
+    color: #707070;
+    font-weight: 300;
+}
+
+.ubicacion {
+    font-size: 13px;
+    color: #707070;
+    font-weight: 300;
+}
+
+.row li {
+    color: #28A745;
+}
+
+.formulario {
+    background: #28A745;
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+.footer {
+    background-color: #fff;
+    color: #707070;
+    font-size: 16px;
+    
+}
+
+.footer img {
+    margin: 15px;
+}
+
+.linea {
+    max-width: 300px;
+}
+
+.precio, h5, h6 {
+    display: inline-block;
+    margin-right: 5px;
+    
+}
+
+.precio h6 {
+   color: #707070;
+   font-weight: 300;
+}
+
+.precio h5 {
+    color: #28A745;
+}
+
+
